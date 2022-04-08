@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shokhany
+- 👋 Hi, I’m @surhokhanyan
 - 👀 I’m interested in programing 
 - 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate on IT company
